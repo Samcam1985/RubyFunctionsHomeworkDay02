@@ -13,3 +13,7 @@ end
 def divide(first_number, second_number)
   return first_number / second_number
 end
+
+def length_of_string(test_string)
+  return test_string.length
+end
